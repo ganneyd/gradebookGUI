@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Tesr">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tesr</output-path>
+    <root id="root">
+      <element id="archive" name="Tesr.jar">
+        <element id="module-output" name="Tesr" />
+      </element>
+    </root>
+  </artifact>
+</component>
